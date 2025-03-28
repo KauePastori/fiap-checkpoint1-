@@ -2,7 +2,7 @@
 
 **Disciplina:** Arquitetura SOA e Web Services  
 **Professor:** João Baptista Moreira Junior  
-
+**Integrantes:** Kauê Pastori Teixeira | RM98501 | Felipe Bressane| RM97688
 ---
 
 ## 📋 Descrição
