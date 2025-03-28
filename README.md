@@ -26,7 +26,7 @@ API REST em Spring Boot desenvolvida para cadastrar, listar, buscar, atualizar e
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/fiap-checkpoint1](https://github.com/KauePastori/fiap-checkpoint1
+git clone https://github.com/KauePastori/fiap-checkpoint1
 ```
 
 2. Abra o projeto no IntelliJ
