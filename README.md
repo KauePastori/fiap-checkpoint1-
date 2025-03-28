@@ -144,7 +144,14 @@ Checkpoint1Application.java
 2.  ![Imagem do WhatsApp de 2025-03-28 à(s) 16 07 52_e5da4f6b](https://github.com/user-attachments/assets/47785ad6-5b08-465d-8074-5de5f70bae0a)
 
 3. ✅ Buscar todos (GET)
-4. ✅ Buscar por ID (GET)
-5. ✅ Atualizar pedido (PUT)
-6. ✅ Deletar pedido (DELETE)
+   ![Imagem do WhatsApp de 2025-03-28 à(s) 16 08 51_6e01b9fb](https://github.com/user-attachments/assets/3dcc45bb-5322-40aa-9d5e-5e9b638e4573)
+
+5. ✅ Buscar por ID (GET)
+   ![Imagem do WhatsApp de 2025-03-28 à(s) 16 09 24_e6d94418](https://github.com/user-attachments/assets/be296643-558c-4043-a32b-483d7415f35d)
+
+7. ✅ Atualizar pedido (PUT)
+   ![Imagem do WhatsApp de 2025-03-28 à(s) 16 11 00_d5eccdb8](https://github.com/user-attachments/assets/ce70d4ef-aa95-4b27-b52c-a2c7e80a600a)
+
+9. ✅ Deletar pedido (DELETE)
+![Imagem do WhatsApp de 2025-03-28 à(s) 16 11 32_b0e22a54](https://github.com/user-attachments/assets/589f1362-2c61-4ac2-8ec7-c64981bb116b)
 
